@@ -1,0 +1,52 @@
+table{
+    border-collapse:collapse;
+}
+table,th,td{
+    border:1px dotted rgb(13, 204, 230);
+}
+#row1{
+    background-image:linear-gradient(to right,rgb(247, 88, 88),rgba(252, 252, 71, 0.904),white,rgba(43, 203, 243, 0.877),rgb(42, 243, 42));
+    padding:6px;
+}
+th{
+    background-color: rgba(120, 240, 240, 0.301);;
+}
+th:nth-child(1){
+    background-color: rgba(223, 210, 32, 0.856);
+}
+th:nth-child(5){
+    background-color: antiquewhite;
+    padding:7px;  
+}
+td{
+    text-align:center;
+    padding:3px;
+}
+.days{
+    background-color: rgba(247, 113, 113, 0.664)
+}
+.lab{
+    background-color:rgba(95, 158, 160, 0.425);
+}
+.eng{
+    background-color: rgba(23, 252, 80, 0.363);
+}
+.mat{
+    background-color: rgba(0, 0, 0, 0.116);
+}
+
+.sci{
+    background-color: rgba(235, 103, 173, 0.425);
+}
+.hin{
+    background-color: rgba(235, 142, 30, 0.76);
+}
+.tel{
+    background-color: rgba(153, 50, 204, 0.397);
+}
+.soc{
+    background-color: rgba(236, 218, 56, 0.575);
+}
+.seminar{
+    background-color: rgba(185, 180, 102, 0.842);
+}
